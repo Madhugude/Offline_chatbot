@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local document data and vector database
+data/
+chroma_db/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
